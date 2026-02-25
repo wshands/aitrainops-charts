@@ -3,12 +3,12 @@ entries:
   ai-training-data-plane:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-02-18T04:23:24.632831776Z"
+    created: "2026-02-25T02:10:11.429469984Z"
     description: Data-plane (job-launcher) for the AI platform
-    digest: 7c570673deb8720d1965aa782d4dced3deca3e0c10c8bc3e6adb8bf0813c52d4
+    digest: b01a8cc9aa3fcf656fd7972d0f046a6f2ff47cc1a21e0b19a8f97148c326722d
     name: ai-training-data-plane
     type: application
     urls:
     - https://wshands.github.io/aitrainops-charts/ai-training-data-plane-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-18T04:23:24.632519358Z"
+generated: "2026-02-25T02:10:11.429111245Z"
